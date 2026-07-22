@@ -1,3 +1,4 @@
+export
 class UserAccount {
     public username: string;
     private password: string;
